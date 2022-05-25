@@ -1,7 +1,7 @@
 package homework6.db.dao;
 
-import db.model.Categories;
-import db.model.CategoriesExample;
+import homework6.db.model.Categories;
+import homework6.db.model.CategoriesExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
