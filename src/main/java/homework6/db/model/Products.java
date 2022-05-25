@@ -1,4 +1,4 @@
-package db.model;
+package homework6.db.model;
 
 public class Products {
     /**
